@@ -7,8 +7,7 @@ from configparser import ConfigParser
 from colorama import Fore
 import datetime
 
-# OTM3NDExNjY4NDk1OTcwMzM0.YfbWpg.c40G-kIMkpcfdaLRUve_ZVDFi7s
-token = "NzU3MTEwNjI3NjkyMDUyNDkw.X2boOA.GDy1QY1WGDIgPahFLj7Fu4LGiUE"
+token = "TOKEN"
 prefix = '>'
 
 client = commands.Bot(command_prefix=prefix)
